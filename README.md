@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abin M
-- 👀 I’m interested in App Development
+- 👀 I’m interested in App Development & Devops
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me ...
 - LinkedIn : Abin M
