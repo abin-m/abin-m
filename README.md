@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abin M
-- 👀 I’m interested in App Development & Devops
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Kubernetes
 - 📫 How to reach me ...
 - LinkedIn : Abin M
 
