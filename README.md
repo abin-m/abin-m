@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abin M
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Kubernetes
+- 👀 I’m interested in Devops & Web dev
+- 🌱 I’m currently learning Kubernetes & MERN
 - 📫 How to reach me ...
-- LinkedIn : Abin M
+- LinkedIn : https://www.linkedin.com/in/abin-m/
 
 <!---
 abin-m/abin-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
