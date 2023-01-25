@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abin M
 - 👀 I’m interested in Devops & Web dev
-- 🌱 I’m currently learning Kubernetes & MERN
+- 🌱 I’m currently learning Django and Kubernetes
 - 📫 How to reach me ...
 - LinkedIn : https://www.linkedin.com/in/abin-m/
 
