@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abin M
+- **👋 Hi, I’m Abin M**
 - 👀 I’m interested in Devops & Web dev
 - 🌱 I’m currently learning Django and React
 - 📫 How to reach me ...
