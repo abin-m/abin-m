@@ -4,9 +4,9 @@
 - 📫 How to reach me ...
 - LinkedIn : https://www.linkedin.com/in/abin-m/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abin-m&show_icons=true&locale=en&layout=compact" alt="abin-m" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abin-m&show_icons=true&locale=en" alt="abin-m" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abin-m&show_icons=true&locale=en" alt="abin-m" /></p>
 
 
 <!---
