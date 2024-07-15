@@ -11,7 +11,7 @@
 
 - 👀 Codewar
 
-<p>&nbsp;<img align="left" src="https://www.codewars.com/users/AbinAnilkumar/badges/large" alt="CodeWar stats" /></p>
+<img align="left" src="https://www.codewars.com/users/AbinAnilkumar/badges/large" alt="CodeWar stats" />
 
 
 <!---
