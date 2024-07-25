@@ -2,7 +2,7 @@
 
 - 👀 **Interests:** DevOps & Web Development  
 - 🔍 **Exploring:** JavaScript, React, Node,K8
-- 💼 **Currently Working As:** Fullstack Developer focusing on JavaScript, React, Node
+- 💼 **Currently Working As:** Fullstack Developer
 
 
 ---
