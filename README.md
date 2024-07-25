@@ -1,16 +1,17 @@
 ## 👋 Hi, I’m Abin M
 
-👀 **Interests:** DevOps & Web Development  
-🔍 **Exploring:** JavaScript, React, Node,K8
-💼 **Currently Working As:** Fullstack Developer focusing on JavaScript, React, Node
+- 👀 **Interests:** DevOps & Web Development  
+- 🔍 **Exploring:** JavaScript, React, Node,K8
+- 💼 **Currently Working As:** Fullstack Developer focusing on JavaScript, React, Node
 
 
 ---
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abin-m&show_icons=true&locale=en" alt="abin-m" /></p>
-<br clear="left">
+<br clear="left"><br><br><br><br><br><br><br>
 
-<img align="left" src="https://www.codewars.com/users/AbinAnilkumar/badges/large" alt="CodeWars Stats" />
+<p>&nbsp;<img align="left" src="https://www.codewars.com/users/AbinAnilkumar/badges/large" alt="CodeWars Stats" /></p>
+<br clear="left">
 
 ---
 
