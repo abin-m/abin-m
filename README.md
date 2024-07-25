@@ -10,7 +10,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abin-m&show_icons=true&locale=en" alt="abin-m" /></p>
 <br clear="left"><br><br><br>
 
-<p>&nbsp;<img align="left" src="https://www.codewars.com/users/AbinAnilkumar/badges/large" alt="CodeWars Stats" /></p>
+<p>&nbsp;<img align="right" src="https://www.codewars.com/users/AbinAnilkumar/badges/large" alt="CodeWars Stats" /></p>
 <br clear="left">
 
 ---
@@ -41,3 +41,5 @@
 
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abin%20M-blue)](https://www.linkedin.com/in/abin-m/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=abin-m&color=blue)
