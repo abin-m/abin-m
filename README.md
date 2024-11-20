@@ -5,15 +5,7 @@
 - 💼 **Currently Working As:**  Implementation Engineer
 
 
----
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abin-m&show_icons=true&locale=en" alt="abin-m" /></p>
-<br clear="left"><br><br><br>
-
-
-<br clear="left">
-
----
 
 ### 🛠️ Known Languages & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
