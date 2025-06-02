@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Abin M
 
 - 👀 **Interests:** DevOps & Web Development  
-- 🔍 **Exploring:** JavaScript, React, Node,K8,Linux,
-- 💼 **Currently Working As:**  Implementation Engineer
+- 🔍 **Exploring:** Django, React, Node,K8,Linux,
+- 💼 **Currently Working As:**  Software System Developer
 
 
 
