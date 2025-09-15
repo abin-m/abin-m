@@ -14,10 +14,10 @@ I’m passionate about **DevOps practices** and crafting solutions that balance 
 ---
 
 ## Technical Experience
-- **Backend Development** — Python, Django, REST APIs, Celery, Redis  
+- **Backend Development** — Python, Django, REST APIs,Fast API  Celery, Redis  
 - **Frontend Development** — React, JavaScript, modern component-driven UIs  
-- **Cloud & Infrastructure** — AWS, Kubernetes, Linux environments  
-- **Databases** — MySQL and other relational systems  
+- **Infrastructure** — Kubernetes, Linux environments  
+- **Databases** — MySQL and postgresql 
 
 
 ---
