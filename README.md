@@ -1,26 +1,13 @@
-# Abin M
+# Hi, I'm Abin 👋
 
-**Software Developer**  
-Focused on building scalable systems with **Django**, **React**, and **Cloud-native technologies**.  
-I’m passionate about **DevOps practices** and crafting solutions that balance performance, reliability, and simplicity.  
+**Platform & Systems Engineer** based in Dublin, building Kubernetes-native infrastructure.
 
----
+- Currently working on a Kubernetes-based  compute platform
+- Exploring and prepping for CKA/CKAD
+- I care about reproducible infra, GitOps, and reliable production delivery
 
-## About Me
-- **Interests:** DevOps · Web Development · Distributed Systems  
-- **Currently exploring:** Django · Kubernetes · Linux  
-- **Professional focus:** Building reliable backend services, cloud infrastructure, and modern web applications  
+### Tech I work with
+`Kubernetes` `ArgoCD` `GitLab CI/CD` `Ansible` `Keycloak` `Podman` `Docker` `Prometheus` `Grafana` `Python` `Bash` `AWS`
 
----
-
-## Technical Experience
-- **Backend Development** — Python, Django, REST APIs,Fast API  Celery, Redis  
-- **Frontend Development** — React, JavaScript, modern component-driven UIs  
-- **Infrastructure** — Kubernetes, Linux environments  
-- **Databases** — MySQL and postgresql 
-
-
----
-
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/abin-m/)  
+### Connect
+[LinkedIn](https://www.linkedin.com/in/abin-m/) · [GitHub](https://github.com/abin-m)
